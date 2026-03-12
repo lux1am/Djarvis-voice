@@ -1,0 +1,5 @@
+{
+  "name": "ORDO Assistant",
+  "description": "Personal AI voice assistant for business automation, news monitoring, and strategic summaries.",
+  "requestFramePermissions": ["microphone"]
+}
